@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is FA6E-B6CC
+
+ Directory of C:\Users\GOVIND\Desktop\MyProjects
+
+06/16/2018  10:58 AM    <DIR>          .
+06/16/2018  10:58 AM    <DIR>          ..
+06/16/2018  10:58 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  151,873,052,672 bytes free
